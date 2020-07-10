@@ -1,0 +1,21 @@
+h3{ 
+	font-family: 'Nanum Brush Script'; font-size: 30px; 
+}
+hr{ 
+	border: 0; height: 0; box-shadow: 0 0 2px 1px #d1d1d1; 
+}
+.bg{ 
+	margin: 1% 10%; padding-bottom: 5px; background: no-repeat url(../images/#.jpg); background-size: cover;
+}
+.cp{ 
+	font-size: 10; font-family: '한양해서'; color: #ffffff;	
+}
+.tbl{ 
+	width: 510px; font-size: 14px; 
+}
+.sign_b{ 
+	font-weight: bold; list-style-image:url(../images/marker.gif);
+}
+.sign_l{ 
+	font-weight: lighter; 
+}
